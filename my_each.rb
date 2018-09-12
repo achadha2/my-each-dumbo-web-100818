@@ -6,3 +6,6 @@ while i < array.length do
 end
 return array
 end
+
+my_array = ["happy", "sad", "silly"]
+my_each(my_array)
