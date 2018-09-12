@@ -4,4 +4,5 @@ while i < array.length do
    puts array[i]
    i += 1
 end
+return array
 end
